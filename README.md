@@ -7,6 +7,7 @@
 
 ## 🛠 Технический стек
 
+<p>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/Gin_Framework-0081CB?style=for-the-badge&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
@@ -16,6 +17,7 @@
 <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+</p>
 
 ---
 
