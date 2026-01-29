@@ -19,8 +19,6 @@
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
 </p>
 
----
-
 ## Ключевой опыт
 
 - **Микросервисы:** Разработка платформ для госуслуг, рефакторинг монолитов.
@@ -28,9 +26,6 @@
 - **Performance:** Внедрение Elasticsearch для логов (снижение нагрузки на БД).
 - **Интеграции:** Переход с XML на JSON, WebSocket, RabbitMQ.
 - **DevOps:** Поддержка K8s, скрипты автоматизации на Linux.
-
----
-
 
 ## Активность
 
