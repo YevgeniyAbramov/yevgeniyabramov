@@ -1,7 +1,7 @@
 # Привет! Я Евгений Абрамов 👋
 
 ### Golang Backend Developer
-[cite_start]Я специализируюсь на создании микросервисных систем [cite: 26, 72][cite_start], проектировании защищенных API [cite: 29, 73] [cite_start]и автоматизации бизнес-процессов[cite: 24, 73].
+Я специализируюсь на создании микросервисных систем, проектировании защищенных API и автоматизации бизнес-процессов.
 
 ---
 
@@ -14,7 +14,7 @@
 
 **Инструменты и Инфраструктура:**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -22,25 +22,27 @@
 ---
 
 ### 🚀 Ключевой опыт
-* [cite_start]**Микросервисы:** Разработка и поддержка платформ автоматизации документооборота[cite: 26].
-* [cite_start]**Архитектура:** Проектирование мульти-аккаунтных систем и рефакторинг межсервисного взаимодействия[cite: 27, 28, 29].
-* [cite_start]**Безопасность:** Проведение аудита SQL-запросов и устранение уязвимостей (SQL-инъекции)[cite: 30].
-* [cite_start]**Интеграции:** Перевод внешних интеграций с XML на JSON API, работа с RabbitMQ и WebSocket[cite: 31, 32, 43].
-* [cite_start]**DevOps навыки:** Поддержка сервисов в Kubernetes, работа с логами и автоматизация задач в Linux[cite: 34, 46].
+* **Микросервисы:** Разработка и поддержка платформ автоматизации документооборота для госуслуг.
+* **Архитектура:** Проектирование мульти-аккаунтных систем и рефакторинг межсервисного взаимодействия.
+* **Оптимизация:** Перевел хранение логов в Elasticsearch, значительно снизив нагрузку на основную БД.
+* **Безопасность:** Провел аудит более 300 SQL-запросов и устранил угрозы SQL-инъекций.
+* **Интеграции:** Перевод внешних систем с XML на JSON API, работа с HTTP и WebSocket.
+* **DevOps навыки:** Поддержка сервисов в K8s, автоматизация администрирования в Linux и написание скриптов.
 
 ---
 
-### 📊 Моя статистика (GitHub Stats)
-| Мои языки | Общая статистика |
-| :--- | :--- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YevgeniyAbramov&layout=compact&theme=radical) | ![Stats](https://github-readme-stats.vercel.app/api?username=YevgeniyAbramov&show_icons=true&theme=radical) |
+### 📊 Моя активность в GitHub
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YevgeniyAbramov&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YevgeniyAbramov&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
 ### 📫 Как со мной связаться
-* [cite_start]**Email:** [eabramov1993@gmail.com](mailto:eabramov1993@gmail.com) [cite: 4]
-* [cite_start]**Телефон:** +7 (707) 203-27-23 [cite: 4]
-* [cite_start]**Локация:** Алматы, Казахстан [cite: 5, 6]
+* **Email:** [eabramov1993@gmail.com](mailto:eabramov1993@gmail.com)
+* **Телефон:** +7 (707) 203-27-23
+* **Локация:** Алматы, Казахстан
 
 ---
-[cite_start]*Интересный факт: Имею высшее музыкальное образование (Казахский национальный университет искусств)[cite: 49, 51, 52].*
+*Интересный факт: Помимо backend-разработки, у меня высшее музыкальное образование.*
