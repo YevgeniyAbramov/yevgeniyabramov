@@ -3,15 +3,7 @@
 ### Golang Backend Developer  
 *Микросервисы | Архитектура | Высокие нагрузки*
 
-<br/>
-
----
-
-<br/>
-
 ## Технический стек
-
-<br/>
 
 <p>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
@@ -25,11 +17,7 @@
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
 </p>
 
-<br/>
-
 ## Ключевой опыт
-
-<br/>
 
 - **Микросервисы:** Разработка платформ для госуслуг, рефакторинг монолитов.
 - **Безопасность:** Аудит SQL-запросов, защита API, устранение уязвимостей.
@@ -37,11 +25,7 @@
 - **Интеграции:** Переход с XML на JSON, WebSocket, RabbitMQ.
 - **DevOps:** Поддержка K8s, скрипты автоматизации на Linux.
 
-<br/>
-
 ## Активность
-
-<br/>
 
 <p>
   <img
