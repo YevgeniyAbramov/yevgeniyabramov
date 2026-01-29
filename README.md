@@ -19,13 +19,15 @@
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
 </p>
 
-## Ключевой опыт
+<h2 align="center">Ключевой опыт</h2>
 
-- **Микросервисы:** Разработка платформ для госуслуг, рефакторинг монолитов.
-- **Безопасность:** Аудит SQL-запросов, защита API, устранение уязвимостей.
-- **Performance:** Внедрение Elasticsearch для логов (снижение нагрузки на БД).
-- **Интеграции:** Переход с XML на JSON, WebSocket, RabbitMQ.
-- **DevOps:** Поддержка K8s, скрипты автоматизации на Linux.
+<ul style="display:inline-block; text-align:left; margin-top:12px; margin-bottom:28px;">
+  <li><b>Микросервисы:</b> Разработка платформ для госуслуг, рефакторинг монолитов.</li>
+  <li><b>Безопасность:</b> Аудит SQL-запросов, защита API, устранение уязвимостей.</li>
+  <li><b>Performance:</b> Внедрение Elasticsearch для логов (снижение нагрузки на БД).</li>
+  <li><b>Интеграции:</b> Переход с XML на JSON, WebSocket, RabbitMQ.</li>
+  <li><b>DevOps:</b> Поддержка K8s, скрипты автоматизации на Linux.</li>
+</ul>
 
 ## Активность
 
